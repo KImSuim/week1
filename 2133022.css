@@ -1,3 +1,10 @@
-#aa{
-    margin-left: 100px;
+.top{
+    height: 50px;
+    background-color: aqua;
+}
+.introduction  {
+    height: 460px;
+}
+.word {
+    width: 50%;
 }
