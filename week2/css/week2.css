@@ -5,6 +5,7 @@ body{
 .top {
     background-color: rgb(206, 187, 255);
     color: rgb(255, 255, 255);
+    text-align: center;
 }
 /*소개 글*/
 .introduction  {
@@ -43,7 +44,7 @@ mark{
     border: 3px dotted green;
     background: pink;
 }
-/*동아리 팀원*/
+/*동아리 팀원(과제)*/
 .group table {
     text-align: center;
     border-collapse: collapse;
@@ -56,7 +57,7 @@ mark{
 .group table tr:nth-child(odd) {
     background: pink;
 }
-/*링크 이동*/
+/*링크 이동(과제)*/
 .hyperlink a:link {
     text-decoration: none;
 }
@@ -67,5 +68,6 @@ mark{
 }
 /*소사캠퍼스*/
 .school img {
-    width: 700px;
+    width: auto;
+    height: 250px;
 }
